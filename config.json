@@ -1,0 +1,8 @@
+{
+  "imagePath": "assets/map.png",
+  "imageWidth": 20000,
+  "imageHeight": 20000,
+  "tileSize": 256,
+  "offsetX": 0,
+  "offsetY": 0
+}
